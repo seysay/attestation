@@ -1,0 +1,5 @@
+# Schema for the theme setting configuration file of the at_bootstrap theme.
+
+at_bootstrap.settings:
+  type: theme_settings
+  label: 'at_bootstrap settings'

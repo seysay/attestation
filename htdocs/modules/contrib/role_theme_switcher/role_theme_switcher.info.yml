@@ -1,0 +1,13 @@
+name: Role Theme Switcher
+type: module
+description: 'Allow administrator to define a specific theme per role.'
+# core: 8.x
+configure: role_theme_switcher.role_theme_switcher_admin_settings
+dependencies:
+  - user
+
+# Information added by Drupal.org packaging script on 2017-07-24
+version: '8.x-1.0'
+core: '8.x'
+project: 'role_theme_switcher'
+datestamp: 1500898745
